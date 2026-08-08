@@ -1,0 +1,7 @@
+{
+  "name": "Olix Play",
+  "applicationId": "com.olixplay.app",
+  "version": "0.3.0",
+  "minSdk": 24,
+  "targetSdk": 35
+}
